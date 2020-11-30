@@ -26,7 +26,14 @@ rpm -ivh https://github.com/nakabonne/pbgopy/releases/download/v0.1.1/pbgopy_0.1
 ```
 wget https://github.com/nakabonne/pbgopy/releases/download/v0.1.1/pbgopy_0.1.1_linux_amd64.deb
 apt install ./pbgopy_0.1.1_linux_amd64.deb
+
 ```
+
+#### Arch Linux
+
+````
+yay pbgopy
+````
 
 #### Go
 
